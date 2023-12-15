@@ -1,12 +1,12 @@
 #Random Module and List Data Type
 # Head or Tails Exercise
 
-# import random
-# coin = random.randint(0,1)
-# if coin == 0:
-#   print("Tails")
-# else:
-#   print("Heads")
+import random
+coin = random.randint(0,1)
+if coin == 0:
+  print("Tails")
+else:
+  print("Heads")
 
 # Collection Data Types
 # List is a collection which is ordered and changeable. Allows duplicate members.
