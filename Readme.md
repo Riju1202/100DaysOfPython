@@ -1,3 +1,3 @@
-#100DaysOfPython
+# 100DaysOfPython
 
 Learning Python
